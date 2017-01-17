@@ -1,4 +1,4 @@
-.daterangepicker .ranges li {
+﻿.daterangepicker .ranges li {
   color: #73879C; }
   .daterangepicker .ranges li.active, .daterangepicker .ranges li:hover {
     background: #536A7F;
@@ -594,7 +594,7 @@ a:hover, a:focus {
   background-color: rgba(255, 255, 255, 0.06); }
 
 .nav.child_menu li {
-  padding-left: 36px; }
+  padding-left: 0px; }
 
 .nav-md ul.nav.child_menu li:before {
   background: #425668;
