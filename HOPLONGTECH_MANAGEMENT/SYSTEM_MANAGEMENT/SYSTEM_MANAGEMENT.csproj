@@ -352,9 +352,12 @@
   <ItemGroup>
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\css\chamcong.css" />
     <Content Include="Content\css\detail_note.css" />
     <Content Include="Content\images\lamhien.jpg" />
     <Content Include="Content\images\logo.png" />
+    <Content Include="Content\js\chamcong.js" />
+    <Content Include="Content\js\jquery-3.1.1.min.js" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -523,7 +526,6 @@
     <Folder Include="Areas\TruongAnHN\Models\" />
     <Folder Include="Areas\TruongAnHN\Views\Shared\" />
     <Folder Include="Content\build\" />
-    <Folder Include="Content\js\" />
     <Folder Include="vendors\" />
   </ItemGroup>
   <ItemGroup>
